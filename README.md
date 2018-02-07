@@ -15,3 +15,20 @@ So we come up with an cost effective algorithm to detect the pilot face and aler
 Cost estimation:
 very cost effective as we are using only two web camera.
 
+
+# Sleep detection
+
+This repository contains two app for driver drowsiness detection via eye monitoring being it closed or opened.
+
+### Prerequisites
+1. Install Opencv3 
+2. Install Python3.6. 
+3. Install Dlib 
+
+Real-Time Eye Blink Detection using Facial Landmarks by Tereza Soukupova and Jan Cech
+
+https://vision.fe.uni-lj.si/cvw.../proceedings/papers/05.pdf
+
+#download the shape_predictor_68_face_landmarks.dat from the below link
+https://osdn.net/projects/sfnet_dclib/downloads/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/
+
